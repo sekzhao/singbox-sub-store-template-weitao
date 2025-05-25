@@ -28,6 +28,9 @@ config.outbounds.map(i => {
   if (['日本', '日本自动'].includes(i.tag)) {
     i.outbounds.push(...getTags(proxies, /日|日本|jp||JP|Japan|NRT|HND|KIX|CTS|FUK|japan|🇯🇵/i))
   }
+  if (['韩国', '韩国自动'].includes(i.tag)) {
+    i.outbounds.push(...getTags(proxies, /韩|韓|首尔|南朝鲜|KR|KOR|Korea|South|🇰🇷/i))
+  }
   if (['sg', 'sg-auto'].includes(i.tag)) {
     i.outbounds.push(...getTags(proxies, /^(?!.*(?:us)).*(新|坡|sg|SG|Sing|SIN|XSP|singapore|🇸🇬)/i))
   }
