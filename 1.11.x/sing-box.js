@@ -29,10 +29,13 @@ config.outbounds.map(i => {
     i.outbounds.push(...getTags(proxies, /日|日本|jp||JP|Japan|japan|🇯🇵/i))
   }
   if (['新加坡', '新加坡自动'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /^(?!.*(?:us)).*(新|新加坡|sg|SG|singapore|🇸🇬)/i))
+    i.outbounds.push(...getTags(proxies, /新|新加坡|sg|SG|singapore|🇸🇬/i))
   }
   if (['美国', '美国自动'].includes(i.tag)) {
     i.outbounds.push(...getTags(proxies, /美|us|US|USA|JFK|LAX|ORD|ATL|DFW|SFO|MIA|SEA|IAD|unitedstates|united states|🇺🇸/i))
+  }
+  if (['其他'].includes(i.tag)) {
+    i.outbounds.push(...getTags(proxies, /^(?!.*(?:us)).*/i))
   }
 })
 
