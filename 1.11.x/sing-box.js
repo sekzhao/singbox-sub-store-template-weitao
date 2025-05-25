@@ -25,7 +25,7 @@ config.outbounds.map(i => {
   if (['tw', 'tw-auto'].includes(i.tag)) {
     i.outbounds.push(...getTags(proxies, /台|tw|taiwan|🇼🇸|TW|tai|TPE|TSA|KHH|🇹🇼/i))
   }
-  if (['日本', '日本自动'].includes(i.tag)) {
+  if (['jp', 'jpauto'].includes(i.tag)) {
     i.outbounds.push(...getTags(proxies, /日|日本|jp||JP|Japan|NRT|HND|KIX|CTS|FUK|japan|🇯🇵/i))
   }
   if (['sg', 'sg-auto'].includes(i.tag)) {
