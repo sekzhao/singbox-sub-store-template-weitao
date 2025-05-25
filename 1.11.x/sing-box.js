@@ -20,22 +20,19 @@ config.outbounds.map(i => {
     i.outbounds.push(...getTags(proxies))
   }
   if (['香港', '香港自动'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /港|hk||HK|Hong|HKG|hongkong|kong kong|🇭🇰/i))
+    i.outbounds.push(...getTags(proxies, /港|香港|hk|hongkong|kong kong|🇭🇰/i))
   }
   if (['台湾', '台湾自动'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /台|tw|taiwan|TW|tai|TPE|TSA|KHH|🇹🇼/i))
+    i.outbounds.push(...getTags(proxies, /台|台湾|tw|taiwan|🇹🇼/i))
   }
   if (['日本', '日本自动'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /日|日本|jp||JP|Japan|japan|🇯🇵/i))
+    i.outbounds.push(...getTags(proxies, /日|日本|jp|japan|🇯🇵/i))
   }
   if (['新加坡', '新加坡自动'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /新|新加坡|sg|SG|singapore|🇸🇬/i))
+    i.outbounds.push(...getTags(proxies, /^(?!.*(?:us)).*(新|新加坡|sg|singapore|🇸🇬)/i))
   }
   if (['美国', '美国自动'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /美|us|US|USA|JFK|LAX|ORD|ATL|DFW|SFO|MIA|SEA|IAD|unitedstates|united states|🇺🇸/i))
-  }
-  if (['其他'].includes(i.tag)) {
-    i.outbounds.push(...getTags(proxies, /^(?!.*(?:us)).*/i))
+    i.outbounds.push(...getTags(proxies, /美|美国|us|unitedstates|united states|🇺🇸/i))
   }
 })
 
