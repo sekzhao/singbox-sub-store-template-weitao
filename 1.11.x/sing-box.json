@@ -190,105 +190,105 @@
         "tag": "apple_ip",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/apple.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/apple.srs",
         "download_detour": "direct"
       },
       {
         "tag": "apple_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/apple.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/apple.srs",
         "download_detour": "direct"
       },
       {
         "tag": "bahamut_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/bahamut.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/bahamut.srs",
         "download_detour": "direct"
       },
       {
         "tag": "bilibili_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/bilibili.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/bilibili.srs",
         "download_detour": "direct"
       },
       {
         "tag": "cn_ip",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.srs",
         "download_detour": "direct"
       },
       {
         "tag": "cn_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/cn.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/cn.srs",
         "download_detour": "direct"
       },
       {
         "tag": "google_ip",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/google.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/google.srs",
         "download_detour": "direct"
       },
       {
         "tag": "google_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/google.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/google.srs",
         "download_detour": "direct"
       },
       {
         "tag": "netflix_ip",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/netflix.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/netflix.srs",
         "download_detour": "direct"
       },
       {
         "tag": "netflix_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/netflix.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/netflix.srs",
         "download_detour": "direct"
       },
       {
         "tag": "openai_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/openai.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/openai.srs",
         "download_detour": "direct"
       },
       {
         "tag": "proxy_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.srs",
         "download_detour": "direct"
       },
       {
         "tag": "telegram_ip",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/telegram.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/telegram.srs",
         "download_detour": "direct"
       },
       {
         "tag": "telegram_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/telegram.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/telegram.srs",
         "download_detour": "direct"
       },
       {
         "tag": "youtube_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.github美国ercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/youtube.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/youtube.srs",
         "download_detour": "direct"
       }
     ],
@@ -296,339 +296,31 @@
     "auto_detect_interface": true
   },
   "outbounds": [
-    {
-      "tag": "proxy",
-      "type": "selector",
-      "outbounds": [
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动",
-        "direct"
-      ],
-      "default": "全部自动"
-    },
-    {
-      "tag": "google",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "proxy"
-    },
-    {
-      "tag": "apple",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "direct"
-    },
-    {
-      "tag": "telegram",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "proxy"
-    },
-    {
-      "tag": "bilibili",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "direct"
-    },
-    {
-      "tag": "netflix",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "proxy"
-    },
-    {
-      "tag": "bahamut",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "proxy"
-    },
-    {
-      "tag": "youtube",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "proxy"
-    },
-    {
-      "tag": "openai",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "proxy"
-    },
-    {
-      "tag": "cn",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "direct"
-    },
-    {
-      "tag": "final",
-      "type": "selector",
-      "outbounds": [
-        "proxy",
-        "direct",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "proxy"
-    },
-    {
-      "tag": "香港",
-      "type": "selector",
-      "outbounds": []
-    },
-    {
-      "tag": "台湾",
-      "type": "selector",
-      "outbounds": []
-    },
-    {
-      "tag": "日本",
-      "type": "selector",
-      "outbounds": []
-    },
-    {
-      "tag": "新加坡",
-      "type": "selector",
-      "outbounds": []
-    },
-    {
-      "tag": "美国",
-      "type": "selector",
-      "outbounds": []
-    },
-    {
-      "tag": "全部",
-      "type": "selector",
-      "outbounds": []
-    },
-    {
-      "tag": "香港自动",
-      "type": "urltest",
-      "outbounds": [],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "1m",
-      "tolerance": 50
-    },
-    {
-      "tag": "台湾自动",
-      "type": "urltest",
-      "outbounds": [],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "1m",
-      "tolerance": 50
-    },
-    {
-      "tag": "日本自动",
-      "type": "urltest",
-      "outbounds": [],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "1m",
-      "tolerance": 50
-    },
-    {
-      "tag": "新加坡自动",
-      "type": "urltest",
-      "outbounds": [],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "1m",
-      "tolerance": 50
-    },
-    {
-      "tag": "美国自动",
-      "type": "urltest",
-      "outbounds": [],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "1m",
-      "tolerance": 50
-    },
-    {
-      "tag": "全部自动",
-      "type": "urltest",
-      "outbounds": [],
-      "url": "https://www.gstatic.com/generate_204",
-      "interval": "1m",
-      "tolerance": 50
-    },
-    {
-      "tag": "GLOBAL",
-      "type": "selector",
-      "outbounds": [
-        "direct",
-        "proxy",
-        "香港",
-        "香港自动",
-        "台湾",
-        "台湾自动",
-        "日本",
-        "日本自动",
-        "新加坡",
-        "新加坡自动",
-        "美国",
-        "美国自动",
-        "全部",
-        "全部自动"
-      ],
-      "default": "direct"
-    },
-    {
-      "tag": "direct",
-      "type": "direct"
-    }
+    {"tag": "proxy","type": "selector","outbounds": ["香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动","direct"],"default": "全部自动"},
+    {"tag": "google","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "proxy"},
+    {"tag": "apple","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "direct"},
+    {"tag": "telegram","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "proxy"},
+    {"tag": "bilibili","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "direct"},
+    {"tag": "netflix","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "proxy"},
+    {"tag": "bahamut","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "proxy"},
+    {"tag": "youtube","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "proxy"},
+    {"tag": "openai","type": "selector","outbounds": ["proxy","direct","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "proxy"},
+    {"tag": "cn","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "direct"},
+    {"tag": "final","type": "selector","outbounds": ["proxy","direct","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "proxy"},
+    {"tag": "香港","type": "selector","outbounds": []},
+    {"tag": "台湾","type": "selector","outbounds": []},
+    {"tag": "日本","type": "selector","outbounds": []},
+    {"tag": "新加坡","type": "selector","outbounds": []},
+    {"tag": "美国","type": "selector","outbounds": []},
+    {"tag": "全部","type": "selector","outbounds": []},
+    {"tag": "香港自动","type": "urltest","outbounds": [],"url": "https://www.gstatic.com/generate_204","interval": "1m","tolerance": 50},
+    {"tag": "台湾自动","type": "urltest","outbounds": [],"url": "https://www.gstatic.com/generate_204","interval": "1m","tolerance": 50},
+    {"tag": "日本自动","type": "urltest","outbounds": [],"url": "https://www.gstatic.com/generate_204","interval": "1m","tolerance": 50},
+    {"tag": "新加坡自动","type": "urltest","outbounds": [],"url": "https://www.gstatic.com/generate_204","interval": "1m","tolerance": 50},
+    {"tag": "美国自动","type": "urltest","outbounds": [],"url": "https://www.gstatic.com/generate_204","interval": "1m","tolerance": 50},
+    {"tag": "全部自动","type": "urltest","outbounds": [],"url": "https://www.gstatic.com/generate_204","interval": "1m","tolerance": 50},
+    {"tag": "GLOBAL","type": "selector","outbounds": ["direct","proxy","香港","香港自动","台湾","台湾自动","日本","日本自动","新加坡","新加坡自动","美国","美国自动","全部","全部自动"],"default": "direct"},
+    {"tag": "direct","type": "direct"}
   ],
   "inbounds": [
     {
@@ -655,7 +347,7 @@
   ],
   "experimental": {
     "clash_api": {
-      "external_controller": "127.0.0.1:9090",
+      "external_controller": "0.0.0.0:9090",
       "external_ui": "ui",
       "external_ui_download_url": "https://ghfast.top/https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
       "external_ui_download_detour": "direct"
